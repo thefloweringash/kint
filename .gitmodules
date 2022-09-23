@@ -1,0 +1,3 @@
+[submodule "kicad/ProMicroKiCad"]
+	path = kicad/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad
